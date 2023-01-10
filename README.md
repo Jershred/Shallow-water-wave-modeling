@@ -7,7 +7,7 @@ Project carried out for the course of Numerical methods for Fluid dynamics in Py
 | Jérémy Archier | Mr. Bastien Di Pierro |
 
 
-[Report](Report/Report_CombustionForPropulsion_PracticalSession1_Archier_Bourakkadi.pdf)
+[Presentation](Report/Beamer_KdV_equation_spectral_method.pdf)
 
 
 ## Project
